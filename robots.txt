@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ciuveuheya.weizhenzhen.com/sitemap.xml
